@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @griffijt or Justin
-- 👀 I’m interested in ... blockchain, smart contracts, data structures, finance, anything really
+- 👀 I’m interested in ... blockchain, smart contracts, data structures, communication, finance, anything really
 - 🌱 I’m currently learning ... Solidity to code smart contracts
 - 💞️ I’m looking to collaborate on ... you name it, I'd love to help build something useful
 - 📫 How to reach me ... justingriffith21@icloud.com
